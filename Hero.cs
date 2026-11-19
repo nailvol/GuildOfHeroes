@@ -1,5 +1,4 @@
-public class Hero
-{
+public class Hero {
     public string Name;
     public int Health;
     public int Level;
